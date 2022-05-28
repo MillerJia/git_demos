@@ -1,3 +1,5 @@
 i do something in feature2 
 i do something in feature1
 feature1 do it again
+
+add some new thing
